@@ -19,8 +19,8 @@ module.exports = {
       'ignoreRegExpLiterals': true
     }],
 
-    'brace-style': ["error", "stroustrup", {
-      "allowSingleLine": false
+    'brace-style': ['error', 'stroustrup', {
+      'allowSingleLine': false
     }],
 
     'no-unused-vars': ['error', {
